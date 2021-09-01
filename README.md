@@ -7,6 +7,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C# | .NET
 - 📫 How to reach me: www.linkedin.com/in/allerson-santana-medeiros-2b7b64176
 
+![](https://komarev.com/ghpvc/?username=allerson-sm&color=blueviolet)
+
+
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allerson-sm&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allerson-sm&show_icons=true&theme=tokyonight"/>
