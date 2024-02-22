@@ -6,9 +6,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Allerson</h1>
 
 
-- 💼 I’m currently working with **Node.js**
-
-- 🌱 I’m learning **Typescript and NestJs**
+- 💼 I’m currently working with **Node.js Typescript and NestJs**
 
 - 🔭 I also know some of **C# and Php**
 
